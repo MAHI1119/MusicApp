@@ -3,12 +3,12 @@
     <VueScrollFixedNavbar>
       <header class="sticky-top">
         <img
-          src="./assets/logo3.jpeg"
+          src="./assets/logo7.jpeg"
           class="logo"
           width="55px"
           height="55px"
         />
-        <h1>Musically</h1>
+        <h1>Sound<span class="party">Party</span></h1>
         <span class="log">Login</span>
       </header>
     </VueScrollFixedNavbar>
@@ -16,7 +16,7 @@
       <section class="player">
         <center>
           <img
-            src="https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNpbmdlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=300&q=200"
+            src="./assets/imge2.jpg"
             width="300px"
             height="350px"
             class="image"

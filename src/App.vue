@@ -92,7 +92,7 @@ export default {
         },
         {
           movie: "Album",
-          Song: "Shap of you ",
+          Song: "Shape of you ",
 
           src: require("./assets/SHAPE OF YOU.mp3"),
         },

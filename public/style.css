@@ -197,10 +197,14 @@ button:hover {
     font-size: 20px;
   }
 }
-@media (min-width: 301px) and (max-width: 385px) {
+@media (min-width: 301px) and (max-width: 400px) {
   h1 {
     font-size: 20px;
     margin: 20px 5px;
+  }
+  .logo {
+    border-radius: 50%;
+    margin: 8px 0px 0px 12px;
   }
   .log {
     font-size: 18px;
